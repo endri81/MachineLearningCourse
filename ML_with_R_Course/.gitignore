@@ -1,0 +1,29 @@
+
+# R
+.Rhistory
+.Rdata
+.RData
+*.Rproj.user/
+
+# LaTeX
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (too large for git)
+*.csv
+*.xlsx
+
+# Generated
+figures/*.png
+figures/*.pdf
+
